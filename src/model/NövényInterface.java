@@ -1,4 +1,4 @@
-package kertészet;
+package model;
 
 public interface NövényInterface {
     public String getNév();

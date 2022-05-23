@@ -1,4 +1,4 @@
-package kertészet;
+package model;
 
 import java.io.Serializable;
 

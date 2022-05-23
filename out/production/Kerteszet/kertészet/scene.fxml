@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.net.*?>
+<?import java.util.*?>
+<?import javafx.geometry.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane  maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="kertészet.FXMLController">
+    <children>
+        <Label fx:id="label" text="Label" styleClass="label" layoutX="126" layoutY="90" />
+        <Label fx:id="label2" text="Label" styleClass="label" layoutX="126" layoutY="90"/>
+                <Button layoutX="126" layoutY="120" text="Click Me!" onAction="#handleButtonAction" fx:id="button" />
+
+    </children>
+</AnchorPane >
+

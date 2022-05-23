@@ -1,4 +1,4 @@
-package kertészet;
+package model;
 
 public class Vásárló implements VásárlóInterface {
 
